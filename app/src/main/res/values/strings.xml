@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Authorisation</string>
+    <string name="enter">Enter</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="text">
+        Log: login \nPass: password
+    </string>
+
+</resources>
